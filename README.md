@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 # Hi there! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I’m Khaled Hesham
 
-# 💫 About Me:
 Welcome to my GitHub profile! I'm a backend developer with a passion for building robust and scalable applications, currently working with **ASP.NET Core, C#, SQL, and more**. Here’s a bit more about me:
 
 ## 🌐 Socials:
