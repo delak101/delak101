@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **delak101/delak101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,7 @@ For your GitHub profile README, it’s best to give an overview of who you are, 
 
 ---
 
-# Hi there! 👋 I’m [Khaled Hesham]
+# Hi there! 👋 I’m Khaled Hesham
 
 Welcome to my GitHub profile! I'm a backend developer with a passion for building robust and scalable applications, currently working with **ASP.NET Core, C#, SQL, and more**. Here’s a bit more about me:
 
@@ -40,6 +38,6 @@ Welcome to my GitHub profile! I'm a backend developer with a passion for buildin
 
 ### 📫 Reach Me
 - LinkedIn: [in/khaledhesham02](https://www.linkedin.com/in/khaledhesham02/)
-- Email: [khaledhesham007@gmail.com]
+- Email: khaledhesham007@gmail.com
 
 Feel free to check out my repositories or reach out if you’d like to collaborate on any projects or just chat about backend development!
