@@ -12,10 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-For your GitHub profile README, it’s best to give an overview of who you are, what you work on, and what projects or skills you’re proud of. Here’s a template you can start with:
-
----
-
 # Hi there! 👋 I’m Khaled Hesham
 
 Welcome to my GitHub profile! I'm a backend developer with a passion for building robust and scalable applications, currently working with **ASP.NET Core, C#, SQL, and more**. Here’s a bit more about me:
